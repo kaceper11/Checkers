@@ -1,0 +1,230 @@
+[
+  [
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": true,
+        "jump": false,
+        "row": 0,
+        "col": 0
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": true,
+        "jump": false,
+        "row": 0,
+        "col": 2
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": true,
+        "jump": false,
+        "row": 0,
+        "col": 4
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": true,
+        "jump": false,
+        "row": 0,
+        "col": 6
+      },
+    },
+  ],
+  [
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": true,
+        "jump": false,
+        "row": 1,
+        "col": 1
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": true,
+        "jump": false,
+        "row": 1,
+        "col": 3
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": true,
+        "jump": false,
+        "row": 1,
+        "col": 5
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": true,
+        "jump": false,
+        "row": 1,
+        "col": 7
+      },
+    }
+  ],
+  [
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": true,
+        "jump": false,
+        "row": 2,
+        "col": 0
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": true,
+        "jump": false,
+        "row": 2,
+        "col": 2
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": true,
+        "jump": false,
+        "row": 2,
+        "col": 4
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": true,
+        "jump": false,
+        "row": 2,
+        "col": 6
+      },
+    },
+  ],
+  [
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": false,
+        "jump": false,
+        "row": 5,
+        "col": 1
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": false,
+        "jump": false,
+        "row": 5,
+        "col": 3
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": false,
+        "jump": false,
+        "row": 5,
+        "col": 5
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": false,
+        "jump": false,
+        "row": 5,
+        "col": 7
+      },
+    }
+  ],
+  [
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": false,
+        "jump": false,
+        "row": 6,
+        "col": 0
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": false,
+        "jump": false,
+        "row": 6,
+        "col": 2
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": false,
+        "jump": false,
+        "row": 6,
+        "col": 4
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": false,
+        "jump": false,
+        "row": 6,
+        "col": 6
+      },
+    },
+  ],
+  [
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": false,
+        "jump": false,
+        "row": 7,
+        "col": 1
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": false,
+        "jump": false,
+        "row": 7,
+        "col": 3
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": false,
+        "jump": false,
+        "row": 7,
+        "col": 5
+      },
+    },
+    {
+      "piece": {
+        "type": "pawn",
+        "isRed": false,
+        "jump": false,
+        "row": 7,
+        "col": 7
+      },
+    }
+  ]
+]
