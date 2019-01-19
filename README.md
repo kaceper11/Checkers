@@ -1,6 +1,4 @@
-# Warcaby - Projekt ZPR
-
-## Wojciech Świstak i Kacper Kępiński
+# Warcaby
 
 ## Klient
 
